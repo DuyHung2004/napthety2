@@ -1,0 +1,6 @@
+server:
+    port: 8089
+telegram:
+    bots:
+        bot-token: "7901891908:AAGBJDzOpuW8IYB3v0EoZbXUdMGFvaAavBE"
+        bot-username: "@napthecaoty20_bot"
